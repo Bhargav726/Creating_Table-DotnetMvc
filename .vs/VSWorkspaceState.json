@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUD_Example",
+    "\\CRUD_Example\\Views",
+    "\\CRUD_Example\\Views\\person",
+    "\\CRUD_Example\\Views\\Shared",
+    "\\Entities"
+  ],
+  "SelectedNode": "\\CRUD_Example\\Views\\person\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

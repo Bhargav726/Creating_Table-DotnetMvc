@@ -1,0 +1,15 @@
+D:\CRUD_Operations\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.deps.json
+D:\CRUD_Operations\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.dll
+D:\CRUD_Operations\RepositoryContracts\bin\Debug\net9.0\RepositoryContracts.pdb
+D:\CRUD_Operations\RepositoryContracts\bin\Debug\net9.0\Entities.dll
+D:\CRUD_Operations\RepositoryContracts\bin\Debug\net9.0\Entities.pdb
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.AssemblyInfo.cs
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\Reposito.28D4BA81.Up2Date
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.dll
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\refint\RepositoryContracts.dll
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\RepositoryContracts.pdb
+D:\CRUD_Operations\RepositoryContracts\obj\Debug\net9.0\ref\RepositoryContracts.dll

@@ -1,0 +1,15 @@
+D:\CRUD_Operations\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\CRUD_Operations\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\CRUD_Operations\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\CRUD_Operations\ServiceContracts\bin\Debug\net9.0\Entities.dll
+D:\CRUD_Operations\ServiceContracts\bin\Debug\net9.0\Entities.pdb
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceC.04662A29.Up2Date
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\CRUD_Operations\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll

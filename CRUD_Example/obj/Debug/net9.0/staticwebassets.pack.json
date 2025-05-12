@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\css\\StyleSheet8.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet8.css"
+    },
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CRUD_Operations\\CRUD_Example\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CRUD_Example.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CRUD_Example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.CRUD_Example.props",
+      "PackagePath": "build\\CRUD_Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD_Example.props",
+      "PackagePath": "buildMultiTargeting\\CRUD_Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.CRUD_Example.props",
+      "PackagePath": "buildTransitive\\CRUD_Example.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

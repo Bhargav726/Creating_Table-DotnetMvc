@@ -1,0 +1,10 @@
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.validate.min.js
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.validate.unobtrusive.min.js
+D:\CRUD_Operations\CRUD_Example\wwwroot\css\StyleSheet8.css
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.min.js
+wwwroot\css\StyleSheet8.css
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.png
+wwwroot\Rotativa\wkhtmltopdf.exe

@@ -1,0 +1,14 @@
+D:\CRUD_Operations\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\CRUD_Operations\Entities\bin\Debug\net9.0\Entities.dll
+D:\CRUD_Operations\Entities\bin\Debug\net9.0\Entities.pdb
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.dll
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.pdb
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\CRUD_Operations\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+D:\CRUD_Operations\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache

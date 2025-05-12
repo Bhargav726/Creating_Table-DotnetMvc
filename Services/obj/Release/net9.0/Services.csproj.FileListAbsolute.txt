@@ -1,0 +1,17 @@
+D:\CRUD_Operations\Services\bin\Release\net9.0\Services.deps.json
+D:\CRUD_Operations\Services\bin\Release\net9.0\Services.dll
+D:\CRUD_Operations\Services\bin\Release\net9.0\Services.pdb
+D:\CRUD_Operations\Services\bin\Release\net9.0\Entities.dll
+D:\CRUD_Operations\Services\bin\Release\net9.0\ServiceContracts.dll
+D:\CRUD_Operations\Services\bin\Release\net9.0\ServiceContracts.pdb
+D:\CRUD_Operations\Services\bin\Release\net9.0\Entities.pdb
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.csproj.AssemblyReference.cache
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.AssemblyInfoInputs.cache
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.AssemblyInfo.cs
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.csproj.Up2Date
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.dll
+D:\CRUD_Operations\Services\obj\Release\net9.0\refint\Services.dll
+D:\CRUD_Operations\Services\obj\Release\net9.0\Services.pdb
+D:\CRUD_Operations\Services\obj\Release\net9.0\ref\Services.dll

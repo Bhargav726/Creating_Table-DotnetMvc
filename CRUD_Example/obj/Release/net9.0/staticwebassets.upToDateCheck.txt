@@ -1,0 +1,9 @@
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.validate.min.js
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.validate.unobtrusive.min.js
+D:\CRUD_Operations\CRUD_Example\wwwroot\jquery.min.js
+D:\CRUD_Operations\CRUD_Example\wwwroot\StyleSheet8.css
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.png
+wwwroot\StyleSheet8.css
